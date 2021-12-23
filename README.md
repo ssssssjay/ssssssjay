@@ -17,7 +17,7 @@
 
 
 ## My Skill Set  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -32,7 +32,7 @@
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ssssssjay&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssssssjay&hide_border=true&layout=compact" align="center" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssssssjay&hide_border=true&layout=compact" align="center" /></div>
 <br />
 
 ----
