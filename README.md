@@ -1,5 +1,7 @@
 ## 안녕하세요 Front End  개발자를 꿈꾸는 곽성재입니다🚀
-
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
+</a>
 <br/>  
 
 ## My Skill Set  
